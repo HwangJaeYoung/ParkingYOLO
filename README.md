@@ -6,3 +6,4 @@
 ## **References**
 - Darknet (Python version): https://github.com/thtrieu/darkflow
 - Python YOLO examples: https://github.com/Hydragon516/darkflow
+- YOLO weights: https://pjreddie.com/media/files/yolov2.weights
